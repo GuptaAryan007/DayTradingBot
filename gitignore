@@ -1,0 +1,8 @@
+# TradingView/PineScript local deployment exclusions
+*.env
+secrets.txt
+webhook_keys.json
+
+# OS files
+.DS_Store
+Thumbs.db
